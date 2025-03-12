@@ -1,6 +1,6 @@
 {
   "name": "react-native-network-logger",
-  "version": "1.17.0",
+  "version": "1.0.0",
   "description": "An HTTP traffic monitor for React Native with zero dependencies",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -9,7 +9,7 @@
   "source": "src/index.tsx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexbrazier/react-native-network-logger.git"
+    "url": "https://github.com/tuannda98/react-native-network-logger.git"
   },
   "keywords": [
     "react",
@@ -120,7 +120,7 @@
     "lib/",
     "coverage"
   ],
-  "homepage": "https://github.com/alexbrazier/react-native-network-logger.git",
+  "homepage": "https://github.com/tuannda98/react-native-network-logger.git",
   "react-native-builder-bob": {
     "source": "src",
     "output": "lib",

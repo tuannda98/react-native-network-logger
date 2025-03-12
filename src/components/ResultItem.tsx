@@ -51,7 +51,7 @@ const ResultItem: React.FC<Props> = ({
 
   const getStatusStyles = (status: number) => ({
     color: getStatusTextColor(status),
-    borderColor: getStatusTextColor(status),
+    // borderColor: getStatusTextColor(status),
   });
 
   const MaybeTouchable: any = onPress ? TouchableOpacity : View;
